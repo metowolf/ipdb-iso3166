@@ -1,0 +1,28 @@
+{
+  "name": "@ipdb/iso3166",
+  "version": "2019.03.01",
+  "description": "IPIP.net database patches (ISO-3166)",
+  "main": "index.js",
+  "repository": "metowolf/ipdb-iso3166",
+  "author": {
+    "name": "metowolf",
+    "email": "i@i-meto.com",
+    "url": "i-meto.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "files": [
+    "index.js",
+    "data.js"
+  ],
+  "keywords": [
+    "ipip",
+    "location",
+    "geolocation",
+    "geo",
+    "ipdb",
+    "datx",
+    "geoip",
+    "iso3166"
+  ]
+}
