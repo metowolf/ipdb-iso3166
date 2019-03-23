@@ -4,7 +4,7 @@ const patch = data => {
 
   const iso = isos.list[`${data.country_name}-${data.region_name}`]
     || isos.list[data.country_name]
-    || new Array(5).fill('')
+    || new Array(isos.fields.length).fill('')
 
   for (let i = 0; i < isos.fields.length; i += 1) {
     if (!data[isos.fields[i]]) {
