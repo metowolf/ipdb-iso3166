@@ -141,7 +141,7 @@ module.exports.list = {
   '法属圣马丁': ['MF', 'LA', 'America/Lima', 'UTC-5', '1599'],
   '马达加斯加': ['MG', 'AF', 'Indian/Antananarivo', 'UTC+3', '261'],
   '马绍尔群岛': ['MH', 'AP', 'Pacific/Kwajalein', 'UTC+12', '692'],
-  '马其顿': ['MK', 'EU', 'Europe/Belgrade', 'UTC+1', '389'],
+  '北马其顿': ['MK', 'EU', 'Europe/Belgrade', 'UTC+1', '389'],
   '马里': ['ML', 'AF', 'Africa/Bamako', 'UTC-0', '223'],
   '缅甸': ['MM', 'AP', 'Asia/Rangoon', 'UTC+6:30', '95'],
   '蒙古': ['MN', 'AP', 'Asia/Ulaanbaatar', 'UTC+8', '976'],
